@@ -30,10 +30,10 @@ Set up and test a firewall rule to block **inbound traffic on TCP port 23 (Telne
 
 |    |   Description                   | Image                                             |
 |----|---------------------------------|------------------------------------------------------|
-| 1  | Inbound Rules – Overview        | ![Inbound Overview](screenshots/firewall-overview-inbound.png.png) |
-| 2  | Outbound Rules – Overview       | ![Outbound Overview](screenshots/firewall-overview-outbound.png.png) |
-| 3  | Block Rule for Port 23 Created  | ![Rule Created](screenshots/rule-created.png.png)        |
-| 4  | Rule Deleted After Testing      | ![Rule Deleted](screenshots/rule-deleted.png.png)        |
+| 1  | Inbound Rules – Overview        | ![Inbound Overview](firewall-overview-inbound.png.png) |
+| 2  | Outbound Rules – Overview       | ![Outbound Overview](firewall-overview-outbound.png.png) |
+| 3  | Block Rule for Port 23 Created  | ![Rule Created](rule-created.png.png)        |
+| 4  | Rule Deleted After Testing      | ![Rule Deleted](rule-deleted.png.png)        |
 
 
 
